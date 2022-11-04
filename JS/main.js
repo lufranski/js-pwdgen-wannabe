@@ -23,4 +23,4 @@ console.log(coloreUtente);
 
 // Output
 
-document.getElementById("container").innerHTML = `Congratulazioni, hai creato la tua nuova password! La tua nuova password &eacute; ${nomeUtente}${cognomeUtente}${coloreUtente}${numeroPassword}! ` ;
+document.getElementById("container").innerHTML = `Congratulazioni, hai creato una nuova password! <br>La tua nuova password &eacute; ${nomeUtente}${cognomeUtente}${coloreUtente}${numeroPassword}! ` ;
